@@ -25,12 +25,43 @@ main{
     padding: 50px;
     padding-left: 30px;
     
+    
 }
 .tab{
-    width: 1200px;
+    width: 1000px;
     height: 600px;
     background-color: white;
     margin: auto;
-    padding: 10px;
-    border-radius: 10px;
+    padding: 40px;
     
+    border-radius: 10px;
+    margin-top: 1px;
+    
+}
+.botton{
+    display: inline-block;
+    padding-top: 10px;
+    
+}
+#task{
+    background: lightblue;
+    border-bottom: 100%;
+    width: 2000px;
+    height: 200px;
+    border-radius: 100px;
+    
+}
+#section{
+    background: rgb(179, 188, 192);
+    border-bottom: 80%;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+
+}
+  #editorial{
+    background: lightblue;
+    border-bottom: 100%;
+    width: 2000px;
+    height: 200px;
+    border-radius: 100px;}
