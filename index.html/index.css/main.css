@@ -1,0 +1,16 @@
+header{
+    background-color: hsl(0, 0%, 90%);
+    width: 1500px;
+    height: 200px;
+}
+#logo-head{
+    width: 200px;
+    height: 200px;;
+}
+h1{
+    display: inline-block;
+    font-size: 80px;
+    font-style:normal;
+    
+    
+}
