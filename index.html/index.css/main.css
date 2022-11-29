@@ -1,16 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 header{
-    background-color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 14%, 96%);
     width: 1500px;
-    height: 200px;
+    height: 100px;
 }
 #logo-head{
-    width: 200px;
-    height: 200px;;
+    width: 100px;
+    height: 100px;;
 }
 h1{
     display: inline-block;
-    font-size: 80px;
+    font-size: 50px;
     font-style:normal;
     
     
 }
+main{
+    background-color: rgb(159, 217, 246);
+    height: 1000px;
+    padding: 50px;
+    padding-left: 30px;
+    
+}
+.tab{
+    width: 1200px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    
